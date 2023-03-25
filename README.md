@@ -2,8 +2,7 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <p align="center">
-  <strong><a href="https://twitter.com/H1Xploit">Twitter</a></strong> |
-  <strong><a href="https://t.me/H1Xploit">Telegram</a></strong>
+  <strong><a href="https://twitter.com/H1Xploit">Twitter</a></strong>
 </p>
 
 <p align="center">"  ꧋ꦠꦶꦪꦁꦧꦺꦴꦣꦺꦴꦃꦭꦁꦏꦸꦁꦄꦮꦺꦴꦤ꧀ꦝꦫꦶꦥꦣꦠꦶꦪꦁꦆꦁꦏꦁꦩ꧀ꦧꦺꦴꦠꦺꦤ꧀ꦏꦗꦺꦁ(ꦧꦣꦺ)ꦱꦶꦤꦻꦴ "</p>
